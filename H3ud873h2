@@ -5,6 +5,12 @@
 ! avatar: #004225
   
 $discard
+
+$downrank,site=xhamster.com
+$downrank,site=xhamster.desi
+$downrank,site=xvideos.com
+$downrank,site=xnxx.com
+$downrank,site=pornhub.com
   
 /amateur/$boost=5
 /amateur.$boost=5
@@ -1111,3 +1117,11 @@ $discard,site=zippyshare.com
 $discard,site=zoho.com
 $discard,site=zol.com.cn
 $discard,site=zoom.us
+$discard,site=theporndude.com
+$discard,site=medicalundfit.de
+$discard,site=trannyclips.com
+$discard,site=backroomcastingcouch.com
+$discard,site=chicagoreader.com
+$discard,site=amateurmaturepornvideos.com
+$discard,site=loginporn.com
+$discard,site=maturetube.com
