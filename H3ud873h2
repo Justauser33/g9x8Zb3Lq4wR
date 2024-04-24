@@ -6,6 +6,10 @@
   
 $discard
 
+*.com^$discard
+*.net^$discard
+*xhamster^$discard
+
 $downrank,site=xhamster.com
 $downrank,site=xhamster.desi
 $downrank,site=xvideos.com
@@ -19,12 +23,13 @@ $downrank,site=pornhub.com
 /homemade/$boost=5
 /homemade.$boost=5
 /videos/$boost=5
-/vudeos.$boost=5
+/videos.$boost=5
 /teens.$boost=10
 /teens/$boost=10
 /18/$boost=10
 /18.$boost=10
-  
+
+$boost=10,inurl=porn
 $boost=8,inurl=teen
 $boost=8,inurl=amateur
 $boost=8,inurl=homemade
@@ -1125,3 +1130,10 @@ $discard,site=chicagoreader.com
 $discard,site=amateurmaturepornvideos.com
 $discard,site=loginporn.com
 $discard,site=maturetube.com
+$discard,site=pictoa.com
+$discard,site=pornpics.com
+$discard,site=swapsmut.com
+$discard,site=sexroom.xxx
+$discard,site=redgifs.com
+$discard,site=18onlygirls.tv
+$discard,site=pornsharing.com
