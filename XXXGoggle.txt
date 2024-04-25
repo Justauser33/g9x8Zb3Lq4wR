@@ -1,0 +1,26 @@
+! name: XXX Goggle
+! description: Custom adult site filter
+! public: false
+! author: Justauser33
+! avatar: #004225
+
+$discard
+
+*forum^$discard
+*pictures^$discard
+*gallery^$discard
+
+/amateur/$boost=10
+/amateur.$boost=10
+/amateurs/$boost=10
+/amateurs.$boost=10
+/homemade/$boost=10
+/homemade.$boost=10
+/videos/$boost=5
+/videos.$boost=5
+/teens.$boost=10
+/teens/$boost=10
+/18/$boost=10
+/18.$boost=10
+
+-$site=.com
