@@ -6,9 +6,6 @@
 
 $discard
 
-! amateur$inurl
-! homemade$inurl
-
 /story/$discard
 /local/$discard
 /books/$discard
